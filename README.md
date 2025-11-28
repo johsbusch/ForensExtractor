@@ -1,0 +1,5 @@
+# This program was developed by Johannes Busch @ Dept. of Forensic Medicine, University of Copenhagen. Please Google me for contact information. This version is dated Aug 30th 2025.
+# This script is a custom program that imports docx-files and mines various data from them. It was developed as a tool to perform large-scale data extraction from historic autopsy records.
+# I am not in any way formally trained in software programming, this code has been written in spare time and partially using LLM-tools for assistance. I do not guarantee for the functionality or validity of data extracted using the program.
+# The code is tailored to Danish records, but in principle all search terms can be modified to another language. The code is not very self-explanatory. Please contact me if you have any questions.
+# Feel free to modify the code for use on your own records and contact me with ideas for collaboration. This tool was developed specifically with the aspiration of multi-center cooperation studies, enabling large and diverse autopsy data sets.
